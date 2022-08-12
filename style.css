@@ -1,0 +1,22 @@
+body{
+    background-color:#00c79a;
+        border: 2px solid red;
+        display: flexbox;
+}
+.card{
+    border:4px solid black;
+    background-color: #51cd00;
+    margin-top: 10px;
+    display: flex;
+}
+.card-img{
+    border:2px solid BLACK;
+}
+.card-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.navbar-brand{
+    font-size: 30px;
+
+}
